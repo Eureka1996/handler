@@ -1,4 +1,4 @@
-package com.wufuqiang.mysql.handler;
+package com.wufuqiang.handler.mysql;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -1,4 +1,4 @@
-package com.wufuqiang.mysql.handler;
+package com.wufuqiang.handler.mysql;
 
 import lombok.Data;
 import lombok.ToString;

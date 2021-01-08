@@ -1,4 +1,4 @@
-package com.wufuqiang.mysql.handler;
+package com.wufuqiang.handler.mysql;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
